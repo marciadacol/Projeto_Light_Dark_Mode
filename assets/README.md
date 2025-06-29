@@ -18,7 +18,7 @@ Projeto desenvolvido durante o modulo inicial do curso de Full-Stack da RocketSe
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/Preview.png" width="100%">
+  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
