@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto DevLinks </h1>
 
 <p align="center">
-Projeto desenvolvido durante o modulo inicial do curso de Full-Stack da RocketSeat.
+  Projeto desenvolvido durante o modulo inicial do curso de Full-Stack na RocketSeat.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A página de apresentação é um projeto de site cartão de visitas do desenvolvedor.
+Site de apresentação do desenvolvedor que serve como um cartão de visitas.
 
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/peAriWrIO1z2gKBAgoWRH1/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=vZVDS5KyaPCFG8Lb-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
